@@ -1,0 +1,1 @@
+This is an audio thumbnail C++ class based on Juce which displays a mixed mono version of a wave in three frequency bands.
